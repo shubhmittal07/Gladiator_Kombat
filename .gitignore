@@ -12,7 +12,14 @@
 sysinfo.txt
 # Unity3D generated meta files
 *.pidb.meta
-
+*.meta
+*.mat
+*.anim
+*.tif
+*.png
+*.asset
+*.mp3
+*.ttf
 ###
 # VS/MD solution and project files
 ###
